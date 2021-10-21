@@ -86,6 +86,8 @@ What is a new part for me is this 3 way rocker switch - it rotates clockwise and
 
 [Creating your own custom hardware (printed circuit boards)](https://youtu.be/9zU92H_CLVI)
 
+[How To Make A Custom PCB From Design To Assembly](https://youtu.be/JCmg-18BxTU)
+
 [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide)
 
 [Keyboard designer wiki](https://wiki.ai03.com/)
