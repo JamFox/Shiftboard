@@ -76,6 +76,16 @@ What is a new part for me is this 3 way rocker switch - it rotates clockwise and
 
 ## Keyboard Design and PCB Resources
 
+[PCB Desing Video Series by hadi](https://www.youtube.com/watch?v=BhFqkVggv8Q&list=PLbtY7JsOJDYkHNuTmBtGgaWv_qipKeL-u)
+
+[Making our own Macro Keyboard - Designing our own PCB](https://youtu.be/qcEJ3mDn-Nk)
+
+[KiCad PCB Generator quick demo](https://youtu.be/58UxCL_o66E)
+
+[From Idea to Schematic to PCB - How to do it easily!](https://youtu.be/35YuILUlfGs)
+
+[Creating your own custom hardware (printed circuit boards)](https://youtu.be/9zU92H_CLVI)
+
 [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide)
 
 [Keyboard designer wiki](https://wiki.ai03.com/)
