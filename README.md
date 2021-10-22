@@ -20,7 +20,7 @@ Fiveday keyboard is a custom ergonomic split mechanical keyboard.
 - [ ] Rigid USB-C connector
 - [ ] Voltage regulator 
 - [ ] [Microcontroller](https://beta.docs.qmk.fm/developing-qmk/c-development/compatible_microcontrollers) 
-- [ ] Reset button
+- [ ] Boot and reset buttons
 - [ ] BLE module (batter connector)
 - [ ] Switch sockets
 - [ ] Switches MX/Choc
