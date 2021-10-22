@@ -12,6 +12,7 @@ Fiveday keyboard is a custom ergonomic split mechanical keyboard.
 - [ ] Choc hotswap sockets for low cost and profile
 - [ ] BLE 
 - [ ] Trackpad, trackpad or joystick-like for thumbs 
+- [ ] 3D printed case
 - [ ] RGB lighting support (optional)
 
 ## Parts 
@@ -25,6 +26,7 @@ Fiveday keyboard is a custom ergonomic split mechanical keyboard.
 - [ ] Switch sockets
 - [ ] Switches MX/Choc
 - [ ] Trackpad, trackpad or joystick-like for thumbs 
+- [ ] 3D printed case design
 
 ## Firmware 
 
