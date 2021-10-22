@@ -8,9 +8,21 @@ Fiveday keyboard is a custom ergonomic split mechanical keyboard.
 - [ ] [QMK supported microcontroller(s)](https://beta.docs.qmk.fm/developing-qmk/c-development/compatible_microcontrollers) 
 - [ ] Direct mapped pins to eliminate need for matrix diodes
 - [ ] Built-in controller for lowest profile 
+- [ ] USB-C connector
 - [ ] Choc hotswap sockets for low cost and profile
 - [ ] BLE 
-- [ ] RGB lighting support
+- [ ] Trackpad, trackpad or joystick-like for thumbs 
+- [ ] RGB lighting support (optional)
+
+## Parts 
+
+- [ ] PCB
+- [ ] Rigid USB-C connector
+- [ ] Voltage regulator 
+- [ ] [Microcontroller](https://beta.docs.qmk.fm/developing-qmk/c-development/compatible_microcontrollers) 
+- [ ] BLE module (batter connector)
+- [ ] Switch sockets
+- [ ] Switches MX/Choc
 - [ ] Trackpad, trackpad or joystick-like for thumbs 
 
 ## Firmware 
@@ -76,6 +88,8 @@ What is a new part for me is this 3 way rocker switch - it rotates clockwise and
 [Southpaw hardware repo](https://github.com/spe2/southpaw_hardware)
 
 ## Keyboard Design and PCB Resources
+
+[How we designed a mechanical keyboard PCB! by KoBuss](https://youtu.be/ezk02GJ9iMs)
 
 [PCB Desing Video Series by hadi](https://www.youtube.com/watch?v=BhFqkVggv8Q&list=PLbtY7JsOJDYkHNuTmBtGgaWv_qipKeL-u)
 
