@@ -78,6 +78,8 @@ What is a new part for me is this 3 way rocker switch - it rotates clockwise and
 
 [PCB Desing Video Series by hadi](https://www.youtube.com/watch?v=BhFqkVggv8Q&list=PLbtY7JsOJDYkHNuTmBtGgaWv_qipKeL-u)
 
+[Keyboard matrix explained](http://blog.komar.be/how-to-make-a-keyboard-the-matrix/)
+
 [Making our own Macro Keyboard - Designing our own PCB](https://youtu.be/qcEJ3mDn-Nk)
 
 [KiCad PCB Generator quick demo](https://youtu.be/58UxCL_o66E)
