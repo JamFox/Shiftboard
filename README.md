@@ -5,7 +5,8 @@ Fiveday keyboard is a custom ergonomic split mechanical keyboard.
 ## Roadmap / Feature list
 
 - [ ] 3x6 column staggered keys and thumb cluster
-- [ ] Microcontroller(s) (hopefully 50 to 100 pin variant to eliminate need for diodes)
+- [ ] [QMK supported microcontroller(s)](https://beta.docs.qmk.fm/developing-qmk/c-development/compatible_microcontrollers) 
+- [ ] Direct mapped pins to eliminate need for matrix diodes
 - [ ] Built-in controller for lowest profile 
 - [ ] Choc hotswap sockets for low cost and profile
 - [ ] BLE 
