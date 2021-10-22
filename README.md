@@ -13,6 +13,7 @@ Fiveday keyboard is a custom ergonomic split mechanical keyboard.
 - [ ] BLE 
 - [ ] Trackpad, trackpad or joystick-like for thumbs 
 - [ ] 3D printed case
+- [ ] Magnets on halves
 - [ ] RGB lighting support (optional)
 
 ## Parts 
@@ -91,6 +92,10 @@ What is a new part for me is this 3 way rocker switch - it rotates clockwise and
 [Southpaw hardware repo](https://github.com/spe2/southpaw_hardware)
 
 ## Keyboard Design and PCB Resources
+
+[DIY Keyboard from Scratch - with QMK and ATmega32U4 by Datulab Tech](https://youtu.be/dpd4y-xZGN0)
+
+[Custom 3D Printed Split Keyboard by Jan Lunge](https://youtu.be/WmjB4KrfuN0)
 
 [How we designed a mechanical keyboard PCB! by KoBuss](https://youtu.be/ezk02GJ9iMs)
 
