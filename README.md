@@ -53,7 +53,12 @@ Fiveday will most likely use the [QMK firmware](https://qmk.fm/)
 #### [Centromere](https://southpawdesign.net/products/centromere-group-buy?variant=31652176232508) and it's [wireless variant](https://southpawdesign.net/products/centromere-wireless-keyboard?variant=8868004724796)
 ![](images/centromere.jpg)
 
+#### [SeveredDuck36](https://github.com/JW2586/SeveredDuck36)
+![](images/severeddock.jpg)
+
 ### Keyboard Modification Inspiration
+
+#### [Crkbd Hotswap Trackpoint](https://github.com/manna-harbour/crkbd/blob/master/trackpoint/readme.org) and the [Hotswap Trackpoint Builds List](https://github.com/manna-harbour/crkbd/issues/1)
 
 #### [Pimoroni Trackball integration with Sofle Keyboard v1.1 and v2.1](https://github.com/foureight84/sofle-keyboard-pimoroni/blob/master/README.md)
 
