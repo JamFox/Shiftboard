@@ -54,7 +54,7 @@ Fiveday will most likely use the [QMK firmware](https://qmk.fm/)
 ![](images/centromere.jpg)
 
 #### [SeveredDuck36](https://github.com/JW2586/SeveredDuck36)
-![](images/severeddock.jpg)
+![](images/severedduck.jpg)
 
 ### Keyboard Modification Inspiration
 
