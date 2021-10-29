@@ -6,7 +6,7 @@ Fiveday keyboard is a custom ergonomic split mechanical keyboard.
 
 - [ ] 3x6 column staggered keys and thumb cluster
 - [ ] [QMK supported microcontroller(s)](https://beta.docs.qmk.fm/developing-qmk/c-development/compatible_microcontrollers) 
-- [ ] Direct mapped pins to eliminate need for matrix diodes
+- [ ] Direct mapped pins or IO expander to eliminate need for matrix diodes
 - [ ] Built-in controller for lowest profile 
 - [ ] USB-C connector
 - [ ] Choc hotswap sockets for low cost and profile
@@ -37,6 +37,8 @@ Fiveday will most likely use the [QMK firmware](https://qmk.fm/)
 ## Inspiration 
 
 ### Keyboard Inspiration
+
+#### [MiRage Modular Keyboard](https://github.com/zackfreedman/mirage)
 
 #### [Sofle](https://github.com/josefadamcik/SofleKeyboard)
 ![](images/soflev2.jpg)
