@@ -23,6 +23,8 @@ Fiveday keyboard is a custom ergonomic split mechanical keyboard.
 - [ ] PCB
    - [ ] Microcontroller footprint and schematic
    - [ ] Shift-register or IO expander to eliminate need for matrix diodes
+      - MCP23018 
+      - PCA9505
    - [ ] Layout
    - [ ] TRRS and temp bridge
    - [ ] Switch footpring and schematic
