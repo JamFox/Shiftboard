@@ -6,26 +6,33 @@ Fiveday keyboard is a custom ergonomic split mechanical keyboard.
 
 - [ ] 3x6 column staggered keys and thumb cluster
 - [ ] [QMK supported microcontroller(s)](https://beta.docs.qmk.fm/developing-qmk/c-development/compatible_microcontrollers) 
-- [ ] Direct mapped pins or IO expander to eliminate need for matrix diodes
-- [ ] Built-in controller for lowest profile 
-- [ ] USB-C connector
+- [ ] Direct mapped pins, shift-register or IO expander to eliminate need for matrix diodes
+- [x] Built-in controller for lowest profile 
+   - Dropped, in favor of hassle free plug-in and more easliy repairable/upgradable socketed MC
+- [x] USB-C connector
+  - Comes with the controller
 - [ ] Choc hotswap sockets for low cost and profile
 - [ ] BLE 
 - [ ] Trackpad, trackpad or joystick-like for thumbs 
 - [ ] 3D printed case
 - [ ] Magnets on halves
-- [ ] RGB lighting support (optional)
+- [ ] RGB lighting support 
 
 ## Parts 
 
 - [ ] PCB
-- [ ] Rigid USB-C connector
+- [x] Rigid USB-C connector
+  - Comes with the controller
 - [ ] Voltage regulator 
-- [ ] [Microcontroller](https://beta.docs.qmk.fm/developing-qmk/c-development/compatible_microcontrollers) 
+- [x] [Microcontroller](https://beta.docs.qmk.fm/developing-qmk/c-development/compatible_microcontrollers) 
+  - Seeed XIAO RP2040 https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html
+  - Waveshare RP2040-Zero mini https://www.waveshare.com/wiki/RP2040-Zero
+  - Pimoroni Tiny 2040 https://shop.pimoroni.com/products/tiny-2040
+  - Adafruit QT Py RP2040 https://learn.adafruit.com/adafruit-qt-py-2040/downloads
 - [ ] Boot and reset buttons
-- [ ] BLE module (batter connector)
-- [ ] Switch sockets
+- [ ] BLE module (battery connector)
 - [ ] Switches MX/Choc
+- [ ] Switch sockets
 - [ ] Trackpad, trackpad or joystick-like for thumbs 
 - [ ] 3D printed case design
 
