@@ -21,6 +21,11 @@ Fiveday keyboard is a custom ergonomic split mechanical keyboard.
 ## Parts 
 
 - [ ] PCB
+   - [ ] Microcontroller footprint and schematic
+   - [ ] Shift-register or IO expander to eliminate need for matrix diodes
+   - [ ] Layout
+   - [ ] TRRS and temp bridge
+   - [ ] Switch footpring and schematic
 - [x] Rigid USB-C connector
   - Comes with the controller
 - [ ] Voltage regulator 
