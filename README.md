@@ -54,6 +54,8 @@ Fiveday will most likely use the [QMK firmware](https://qmk.fm/)
 
 ### Keyboard Inspiration
 
+#### [Ferris](https://github.com/pierrechevalier83/ferris)
+
 #### [MiRage Modular Keyboard](https://github.com/zackfreedman/mirage)
 
 #### [Sofle](https://github.com/josefadamcik/SofleKeyboard)
