@@ -28,6 +28,8 @@ Fiveday keyboard is a custom ergonomic split mechanical keyboard.
    - [ ] Layout
    - [ ] TRRS and temp bridge
    - [ ] Switch footpring and schematic
+      - https://github.com/perigoso/keyswitch-kicad-library
+      - https://github.com/daprice/keyswitches.pretty
 - [x] Rigid USB-C connector
   - Comes with the controller
 - [ ] Voltage regulator 
