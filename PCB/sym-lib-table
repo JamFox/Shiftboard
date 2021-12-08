@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "SofleKeyboard")(type "Legacy")(uri "/home/katurv/SofleKeyboard/Sofle_v2/PCB/SofleKeyboard.lib")(options "")(descr ""))
+)
