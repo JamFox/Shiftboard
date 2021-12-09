@@ -1,17 +1,17 @@
-# Fiveday Keyboard 
+# Shiftboard 
 
-Fiveday keyboard is a custom ergonomic split mechanical keyboard. 
+Shiftboard is a custom ergonomic split mechanical keyboard. 
 
 ## Roadmap / Feature list
 
-- [ ] 3x6 column staggered keys and thumb cluster
-- [ ] [QMK supported microcontroller(s)](https://beta.docs.qmk.fm/developing-qmk/c-development/compatible_microcontrollers) 
-- [ ] Direct mapped pins, shift-register or IO expander to eliminate need for matrix diodes
+- [x] 4x6 column staggered keys and 2x3 thumb clusters
+- [x] [QMK supported microcontroller(s)](https://beta.docs.qmk.fm/developing-qmk/c-development/compatible_microcontrollers) 
+- [x] Direct mapped pins, shift-register or IO expander to eliminate need for matrix diodes
 - [x] Built-in controller for lowest profile 
    - Dropped, in favor of hassle free plug-in and more easliy repairable/upgradable socketed MC
 - [x] USB-C connector
   - Comes with the controller
-- [ ] Choc hotswap sockets for low cost and profile
+- [x] Choc hotswap sockets for low cost and profile
 - [ ] BLE 
 - [ ] Trackpad, trackpad or joystick-like for thumbs 
 - [ ] 3D printed case
@@ -32,13 +32,15 @@ Fiveday keyboard is a custom ergonomic split mechanical keyboard.
       - https://github.com/daprice/keyswitches.pretty
 - [x] Rigid USB-C connector
   - Comes with the controller
-- [ ] Voltage regulator 
+- [x] Voltage regulator 
+  - Comes with the controller
 - [x] [Microcontroller](https://beta.docs.qmk.fm/developing-qmk/c-development/compatible_microcontrollers) 
   - Seeed XIAO RP2040 https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html
   - Waveshare RP2040-Zero mini https://www.waveshare.com/wiki/RP2040-Zero
   - Pimoroni Tiny 2040 https://shop.pimoroni.com/products/tiny-2040
   - Adafruit QT Py RP2040 https://learn.adafruit.com/adafruit-qt-py-2040/downloads
-- [ ] Boot and reset buttons
+- [x] Boot and reset buttons
+  - Comes with the controller
 - [ ] BLE module (battery connector)
 - [ ] Switches MX/Choc
 - [ ] Switch sockets
@@ -47,7 +49,7 @@ Fiveday keyboard is a custom ergonomic split mechanical keyboard.
 
 ## Firmware 
 
-Fiveday will most likely use the [QMK firmware](https://qmk.fm/)
+Will most likely use the [QMK firmware](https://qmk.fm/)
 
 
 ## Inspiration 
