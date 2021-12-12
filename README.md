@@ -22,12 +22,12 @@ Shiftboard is a custom ergonomic split mechanical keyboard.
 
 - [ ] PCB
    - [ ] Microcontroller footprint and schematic
-   - [ ] Shift-register or IO expander to eliminate need for matrix diodes
+   - [x] Shift-register or IO expander to eliminate need for matrix diodes
       - MCP23018 
       - PCA9505
    - [ ] Layout
    - [ ] TRRS and temp bridge
-   - [ ] Switch footpring and schematic
+   - [x] Switch footprint and schematic
       - https://github.com/perigoso/keyswitch-kicad-library
       - https://github.com/daprice/keyswitches.pretty
 - [x] Rigid USB-C connector
@@ -42,8 +42,9 @@ Shiftboard is a custom ergonomic split mechanical keyboard.
 - [x] Boot and reset buttons
   - Comes with the controller
 - [ ] BLE module (battery connector)
-- [ ] Switches MX/Choc
-- [ ] Switch sockets
+- [x] Switches MX/Choc
+- [x] Switch sockets
+  - Directly soldered for lower footprint
 - [ ] Trackpad, trackpad or joystick-like for thumbs 
 - [ ] 3D printed case design
 
