@@ -5,15 +5,22 @@ Shiftboard is a custom ergonomic split mechanical keyboard.
 ## Roadmap / Feature list
 
 - [x] 4x6 column staggered keys and 2x3 thumb clusters
+   - Leftmost 4x1 or topmost 1x6 part of the PCB can be snapped off
 - [x] [QMK supported microcontroller(s)](https://beta.docs.qmk.fm/developing-qmk/c-development/compatible_microcontrollers) 
+   - RP2040 not officially supported yet, but solutions exist and work is underway to support it. Python based firmware solutions offered as an alternative.
 - [x] Direct mapped pins, shift-register or IO expander to eliminate need for matrix diodes
-- [x] Built-in controller for lowest profile 
+   - 74HC165 shift-registers used
+- [ ] Built-in controller for lowest profile 
    - Dropped, in favor of hassle free plug-in and more easliy repairable/upgradable socketed MC
+   - Separate design with SMD components planned
 - [x] USB-C connector
   - Comes with the controller
-- [x] Choc hotswap sockets for low cost and profile
+- [ ] Choc hotswap sockets for low cost and profile
+   - Dropped, in favor of lower profile. Hotswap sockets can be dropped in into the existing stock footprints. 
 - [ ] BLE 
+   - Free pins for BLE module
 - [ ] Trackpad, trackpad or joystick-like for thumbs 
+   - Dropped, no suitable solution with open hardware found.
 - [ ] 3D printed case
 - [ ] Magnets on halves
 - [ ] RGB lighting support 
@@ -22,9 +29,8 @@ Shiftboard is a custom ergonomic split mechanical keyboard.
 
 - [ ] PCB
    - [ ] Microcontroller footprint and schematic
-   - [x] Shift-register or IO expander to eliminate need for matrix diodes
-      - MCP23018 
-      - PCA9505
+   - [x] Shift-registers to eliminate need for matrix diodes
+      - 74HC165 
    - [ ] Layout
    - [ ] TRRS and temp bridge
    - [x] Switch footprint and schematic
