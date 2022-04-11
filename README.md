@@ -20,7 +20,7 @@ Shiftboard is a custom ergonomic split mechanical keyboard.
 - [ ] BLE 
    - Free pins for BLE module
 - [ ] Trackpad, trackpad or joystick-like for thumbs 
-   - Dropped, no suitable solution with open hardware found.
+   - Cirque trackpad?
 - [ ] 3D printed case
 - [ ] Magnets on halves
 - [ ] RGB lighting support 
